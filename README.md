@@ -1,2 +1,1 @@
-# Kata-Investec-API-Automated-Test
-This is a technical testing kata that we will use to gain insight and understanding into a software tester's approach to software test automation.
+Create an API Test that executes a GET request to: https://swapi.dev/api/people/ and assert that R2-D2’s skin colour is white and blue.
